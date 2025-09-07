@@ -16,3 +16,12 @@ This repo contains Python exercises I’m doing to learn programming.
 - If the score is 70–79, prints **Grade C**.  
 - If the score is 60–69, prints **Grade D**.  
 - Anything below 60, prints **Grade F**.  
+
+### Excercise 3: Classroom Attendance Checker
+
+-Checks student attendance across multiple classes using nested lists and loops.
+-Prints students starting with "A".
+-Stops checking a class if "Eve" is found.
+-Skips students starting with "G".
+-Counts total students checked.
+
