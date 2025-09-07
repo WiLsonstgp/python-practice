@@ -19,9 +19,9 @@ This repo contains Python exercises I’m doing to learn programming.
 
 ### Excercise 3: Classroom Attendance Checker
 
--Checks student attendance across multiple classes using nested lists and loops.
--Prints students starting with "A".
--Stops checking a class if "Eve" is found.
--Skips students starting with "G".
--Counts total students checked.
+- Checks student attendance across multiple classes using nested lists and loops.
+- Prints students starting with "A".
+- Stops checking a class if "Eve" is found.
+- Skips students starting with "G".
+- Counts total students checked.
 
