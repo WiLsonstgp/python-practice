@@ -25,3 +25,19 @@ This repo contains Python exercises I’m doing to learn programming.
 - Skips students starting with "G".
 - Counts total students checked.
 
+
+### Project practice : To-Do List
+This is a simple Python console-based to-do list program I made while learning programming basics.  
+It uses lists, loops, and conditional statements to manage tasks interactively.
+
+## Features
+- View all current tasks  
+- Add new tasks  
+- Remove tasks by name  
+- Quit the program  
+
+## How It Works
+1. The program starts with an empty task list.  
+2. You can add as many tasks as you want.  
+3. Tasks can be removed by typing the exact name.  
+4. The menu repeats until you choose **Quit**.  .
